@@ -3,22 +3,22 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: David Cuadros A
+    tagline: Estudiante Ing. Sistemas
+    avatar: ejemplo.avif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: davidjcuadros@javeriana.edu.co
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Colombia
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: davidjcuadros
     xing: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -33,14 +33,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
         - idiom: French
-          level: Professional
+          level: B2
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: B1
 
     interests:
       title: Interests
@@ -66,8 +66,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Ingeniero de Sistemas
+        university: Pontificia Universidad Javeriana
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -77,8 +77,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: BSc in Engineer
+        university: Oxford University
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
